@@ -1,5 +1,7 @@
 # Aluraflix
 
+## Imagen (img/banner.jpeg)
+
 Aluraflix es una aplicación web responsive desarrollada como parte del challenge final del programa ONE Frontend de Oracle y Alura. Esta plataforma permite a los usuarios explorar y gestionar una colección de videos educativos, inspirada en el diseño de populares servicios de streaming.
 
 ## Demo
