@@ -32,7 +32,7 @@ function Category() {
                 return "#409bf1";
             case 'BACKEND':
                 return "#00c86f";
-            case 'INNOVACIÓN':
+            case "":
                 return "#f24822";
             default:
                 return "#ffba05";

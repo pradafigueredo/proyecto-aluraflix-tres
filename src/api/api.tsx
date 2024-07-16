@@ -3,7 +3,7 @@ import CardData from "../models/CardData";
 
 export const api = axios.create({
     baseURL: "https://fake-api-aluraflix-theta.vercel.app"
-    // baseURL: "http://localhost:5173/"
+    // baseURL: " http://localhost:5173/"
 });
 
 // Get cards
@@ -33,7 +33,7 @@ export const postCard = async(data: CardData) => {
         console.log('Card created successfully', response.data);
         return response.data;
     } catch (error) {
-        console.error('Error creating card', error);
+        console.error("Error creating card", error);
     }
 };
 
